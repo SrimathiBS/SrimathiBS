@@ -1,7 +1,7 @@
 ## 👋Hi there! It's me Srimathi
 
 🎓 BTech IT Student at REC<br />
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="360" height="200" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 💡 Passionate about web development and eager to build impactful projects!
 - 📚 Currently diving into full-stack development and improving my skills in JavaScript & databases.
 - 🚀 Actively exploring GitHub and open-source contributions
