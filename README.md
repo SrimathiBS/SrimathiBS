@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋Hi there! It's me Srimathi
 
-<!--
-**SrimathiBS/SrimathiBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech IT Student at REC<br />
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+- 💡 Passionate about web development and eager to build impactful projects!
+- 📚 Currently diving into full-stack development and improving my skills in JavaScript & databases.
+- 🚀 Actively exploring GitHub and open-source contributions
+- ✨ I love solving problems, creating digital experiences, and exploring new technologies.
+## 👥Connect through :
+<p align="left">
+  <a href="https://www.linkedin.com/in/srimathibs">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:srimathi2420@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠Tech Stack :
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
+
+## 📈 GitHub Activity Tracker
+[![Srimathi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SrimathiBS&bg_color=1a1a1a&color=fcfcfc&line=0f9525&point=e9e2e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
