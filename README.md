@@ -1,6 +1,6 @@
 ## 👋Hi there! It's me Srimathi
 
-<img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="250" height="180"/>
+<img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="250" height="200"/>
 🎓 BTech IT Student at REC<br /><br />
 
 - 💡 Passionate about web development and eager to build impactful projects!
